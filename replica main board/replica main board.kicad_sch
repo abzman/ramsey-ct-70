@@ -2,7 +2,7 @@
 
   (uuid ede51f88-e8b0-4c9f-8bc9-b97e877bb393)
 
-  (paper "USLegal")
+  (paper "B")
 
   (lib_symbols
     (symbol "74xx:74LS196" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
